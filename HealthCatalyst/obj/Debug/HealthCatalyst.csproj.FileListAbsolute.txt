@@ -1,0 +1,123 @@
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/HealthCatalyst.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/HealthCatalyst.pdb
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/EntityFramework.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/EntityFramework.SqlServer.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/Microsoft.Web.Infrastructure.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/Newtonsoft.Json.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Net.Http.Formatting.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.Helpers.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.Http.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.Http.WebHost.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.Mvc.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.Razor.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.WebPages.Deployment.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.WebPages.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.WebPages.Razor.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.Razor.xml
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.Helpers.xml
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.WebPages.Deployment.xml
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.WebPages.xml
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.WebPages.Razor.xml
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.Mvc.xml
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Net.Http.Formatting.xml
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.Http.xml
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/System.Web.Http.WebHost.xml
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/Newtonsoft.Json.xml
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/EntityFramework.xml
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/bin/EntityFramework.SqlServer.xml
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/obj/Debug/HealthCatalyst.csproj.CoreCompileInputs.cache
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/obj/Debug/HealthCatalyst.dll
+/Users/shelly-skuza/Projects/Shellycya/health-catalyst.git/HealthCatalyst/HealthCatalyst/obj/Debug/HealthCatalyst.pdb
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/HealthCatalyst.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/HealthCatalyst.pdb
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/EntityFramework.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/EntityFramework.SqlServer.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/Microsoft.Web.Infrastructure.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/Newtonsoft.Json.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Net.Http.Formatting.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.Helpers.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.Http.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.Http.WebHost.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.Mvc.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.Razor.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.WebPages.Deployment.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.WebPages.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.WebPages.Razor.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.Razor.xml
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.Helpers.xml
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.WebPages.Deployment.xml
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.WebPages.xml
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.WebPages.Razor.xml
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.Mvc.xml
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Net.Http.Formatting.xml
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.Http.xml
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/System.Web.Http.WebHost.xml
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/Newtonsoft.Json.xml
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/EntityFramework.xml
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/bin/EntityFramework.SqlServer.xml
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/obj/Debug/HealthCatalyst.csprojResolveAssemblyReference.cache
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/obj/Debug/HealthCatalyst.csproj.CoreCompileInputs.cache
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/obj/Debug/HealthCatalyst.dll
+/Users/shelly-skuza/Google Drive/HealthCatalyst/HealthCatalyst/obj/Debug/HealthCatalyst.pdb
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\HealthCatalyst.dll.config
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\HealthCatalyst.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\HealthCatalyst.pdb
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\EntityFramework.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\EntityFramework.SqlServer.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\Newtonsoft.Json.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Net.Http.Formatting.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.Helpers.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.Http.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.Http.WebHost.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.Mvc.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.Razor.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.WebPages.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.Razor.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.Helpers.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.WebPages.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.Mvc.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Net.Http.Formatting.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.Http.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\System.Web.Http.WebHost.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\Newtonsoft.Json.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\EntityFramework.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\bin\EntityFramework.SqlServer.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\obj\Debug\HealthCatalyst.csprojResolveAssemblyReference.cache
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\obj\Debug\HealthCatalyst.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\HealthCatalyst\obj\Debug\HealthCatalyst.pdb
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\HealthCatalyst.dll.config
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\HealthCatalyst.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\HealthCatalyst.pdb
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\EntityFramework.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\EntityFramework.SqlServer.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\Newtonsoft.Json.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Net.Http.Formatting.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.Helpers.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.Http.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.Http.WebHost.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.Mvc.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.Razor.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.WebPages.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.Razor.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.Helpers.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.WebPages.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.Mvc.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Net.Http.Formatting.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.Http.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\System.Web.Http.WebHost.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\Newtonsoft.Json.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\EntityFramework.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\bin\EntityFramework.SqlServer.xml
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\obj\Debug\HealthCatalyst.csprojResolveAssemblyReference.cache
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\obj\Debug\HealthCatalyst.dll
+C:\Users\Shelly\Google Drive\HealthCatalyst\Git\HealthCatalyst\obj\Debug\HealthCatalyst.pdb

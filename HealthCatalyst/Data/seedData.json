@@ -1,0 +1,66 @@
+﻿[
+  {
+    "personid": 1,
+    "name": "Shelly Skuza",
+    "address": "1052 W 1550 S, Springville, UT 84663",
+    "age": 35,
+    "photo": "shelly.jpg",
+    "interests": "reading, programming, tv"
+  },
+  {
+    "personid": 2,
+    "name": "Jason Skuza",
+    "address": "433 N 100 W, Spanish Fork UT 84663",
+    "age": 38,
+    "photo": "jason.jpg",
+    "interests": "atv, history channel"
+  },
+  {
+    "personid": 3,
+    "name": "Skylar Skuza",
+    "address": "Salem, UT",
+    "age": 9,
+    "photo": "skylar.jpg",
+    "interests": "youtube, superheroes"
+  },
+  {
+    "personid": 4,
+    "name": "Savannah Skuza",
+    "address": "Springville, UT",
+    "age": 1,
+    "photo": "savannah.jpg",
+    "interests": "pacifier, stuffed elephant"
+  },
+  {
+    "personid": 5,
+    "name": "Kai Skuza",
+    "address": "Kent, WA",
+    "age": 9,
+    "photo": "kai.jpg",
+    "interests": "video games, skating"
+  },
+  {
+    "personid": 6,
+    "name": "Shannon Blietz",
+    "address": "Eagle Mountain, UT",
+    "age": 35,
+    "photo": "shannon.jpg",
+    "interests": "hearthstone, art"
+  },
+  {
+    "personid": 7,
+    "name": "Jason Blietz",
+    "address": "Eagle Mountain, UT",
+    "age": 38,
+    "photo": "blietz.jpg",
+    "interests": "world of warcraft, campfires"
+  },
+  {
+    "personid": 8,
+    "name": "Alessa Blietz",
+    "address": "Eagle Mountain, UT",
+    "age": 8,
+    "photo": "alessa.jpg",
+    "interests": "kindle, dolls"
+  }
+]

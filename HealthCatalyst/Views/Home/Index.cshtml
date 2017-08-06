@@ -1,0 +1,92 @@
+﻿@model IEnumerable<HealthCatalyst.Models.Person>
+
+<div class='panel panel-primary'>
+    <div class='panel-heading'>
+        Health Catalyst - Full Stack Test
+    </div>
+    <div class='panel-body'>
+        <div class='row searchRow'>
+            <div class='col-md-2'>Search by:</div>
+            <div class='col-md-2'>
+                @Html.TextBox("searchString", null, new { id = "Search" })
+                <input id="SubmitSearch" type="submit" value="Search" class="btn btn-primary" />
+
+            </div>
+            <div class='col-md-1'>
+                <img id="loading" src="~/Content/images/loading.gif" height="100" />
+            </div>
+        </div>
+
+        <div class='table-responsive'>
+            <table class='table'>
+                <thead>
+                    <tr>
+                        <th>
+
+                        </th>
+                        <th>Name</th>
+                        <th>Address</th>
+                        <th>Age</th>
+                        <th>Interests</th>
+                    </tr>
+                </thead>
+                <tbody id="searchResult">
+                    @Html.Action("SearchPeople", new { keyword = "" })
+                </tbody>
+            </table>
+        </div>
+
+
+    </div>
+
+</div>
+<script>
+    $(document).ready(function () {
+        $('#loading').hide();  // hide loading indicator
+
+        $("#SubmitSearch").on("click", function () {
+            var val = $('#Search').val();
+            $.ajax({
+                url: "/Home/SearchPeople",
+                type: "GET",
+                data: { keyword: val }
+            })
+
+                .done(function (partialViewResult) {
+                    $('#loading').show();
+                    window.setTimeout(function () {
+                        $('#loading').hide();  // hide loading indicator
+                        $("#searchResult").html(partialViewResult);
+                    }, 1000);
+
+                });
+        });
+
+        $('#Search').keypress(function (e) {
+            if (e.keyCode == 13)
+                $('#SubmitSearch').click();
+        });
+
+
+        @*$("#SubmitSearch").on("click", function () {
+            var val = $('#Search').val();
+            $.ajax({
+                url: '/Data/seedData.json',
+                type: "GET"
+            })
+                .done(function (data) {
+                    data = filter(data, val);
+                    $('#searchResult').load('@Url.Action("SearchPeople")');
+                    //$("#searchResult").html(data);
+                });
+        });
+
+        function filter(value, filterBy) {
+            filterBy = filterBy ? filterBy.toLocaleLowerCase() : null;
+            return filterBy ? value.filter(function (person) {
+                return person.name.toLocaleLowerCase().indexOf(filterBy) !== -1;
+            }) : value;
+        }*@
+    });
+</script>
+

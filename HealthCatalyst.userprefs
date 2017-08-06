@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{D8490E24-18E3-4C73-802C-1C75D452D84F}|" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HealthCatalyst Status">
+    <Files>
+      <File FileName="HealthCatalyst/Controllers/HomeController.cs" Line="6" Column="27" />
+      <File FileName="HealthCatalyst/Views/_ViewStart.cshtml" Line="4" Column="1" />
+      <File FileName="HealthCatalyst/Views/Shared/_Layout.cshtml" Line="6" Column="45" />
+      <File FileName="HealthCatalyst/Views/Home/Index.cshtml" Line="5" Column="42" />
+      <File FileName="HealthCatalyst/Models/Person.cs" Line="15" Column="21" />
+      <File FileName="HealthCatalyst/Context/PersonContext.cs" Line="7" Column="3" />
+      <File FileName="HealthCatalyst Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HealthCatalyst PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

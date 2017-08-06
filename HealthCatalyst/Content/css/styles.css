@@ -1,0 +1,12 @@
+﻿body {
+}
+
+#loading {
+    position: relative;
+    margin-top: -10px;
+}
+
+.searchRow {
+    height: 100px;
+}
+
